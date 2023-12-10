@@ -7806,6 +7806,11 @@ textarea.form-control-lg {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
 }
+.text-primary2 {
+  --bs-text-opacity: 1;
+  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  text-decoration:underline;
+}
 
 .text-gray {
   --bs-text-opacity: 1;
